@@ -1,0 +1,16 @@
+
+
+    body {
+        background-color: white;
+    }
+    h1 {
+        color: blue;
+        text-align: center;
+    }
+    #first_image{
+        width: 50px;
+    }
+    li{
+        text-align: center;
+        margin: auto;
+    }
